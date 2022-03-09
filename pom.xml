@@ -11,6 +11,7 @@
     <modules>
         <module>01-resource</module>
         <module>02-document</module>
+        <module>03-builder</module>
     </modules>
 
     <properties>
